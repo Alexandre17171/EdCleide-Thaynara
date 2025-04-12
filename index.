@@ -1,0 +1,9 @@
+git init
+
+git remote add origin https://github.com/SEU_USUARIO/AcarajeDaCleide01.git
+
+git add .
+
+git commit -m "site funcional"
+
+git push -u origin main
